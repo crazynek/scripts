@@ -11,23 +11,23 @@
 "containers": 
 {
 	"gold_bp":"Golden Backpack",
-	"loot_bp":"Red Backpack"
+	"loot_bp":"Blue Backpack"
 },
 "tools": {},
 "items":
 {
-	"mana potion": {"hotkey":"f1", "id":268, "use":"self"},
-	"strong health potion": {"hotkey":"f2", "id":236, "use":"self"},
-	"brown mushroom": {"hotkey":"f11", "id":3725, "use":"use"}
+	"mana potion": {"hotkey":"f4", "id":268, "use":"self"},
+	"strong health potion": {"hotkey":"f5", "id":236, "use":"self"},
+	"brown mushroom": {"hotkey":"f12", "id":3725, "use":"use"}
 },
 "spells":
 {
-	"utani hur": "v",
+	"utani hur": "f10",
 	"utura": "R",
-	"exeta res": "x",
-	"exura ico":"r",
-	"exori":"1",
-	"exori ico":"q"
+	"exeta res": "f3",
+	"exura ico":"f2",
+	"exori":"f8",
+	"exori ico":"f6"
 },
 "healing":
 [
